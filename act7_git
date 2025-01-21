@@ -1,0 +1,23 @@
+mkdir act7_git
+
+cd act7_git
+
+git init
+
+
+nano archivo.txt
+
+git add archivo.txt
+
+
+git commit -m "Primer commit"
+
+
+git status
+
+nano archivo.txt
+
+git status
+
+
+git log
